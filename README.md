@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+
+npm install -g @angular/cli
+ng add @angular/material
+npm install npx-toastr -save
+npm install -g json-server
+json-server --watch db.json
+
+
+
+# Create Module file for All material librabry
+
+# Now configure db.json file.
+# now create component using CLI
+# Now its time to move Route Configuration 
+# add bootstrap(search angular bootstrap and copy command and install) 
